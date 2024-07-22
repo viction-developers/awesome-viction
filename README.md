@@ -7,6 +7,7 @@
 - [Viction Docs](https://docs.viction.xyz) - Documents for Viction Network
 
 # Articles
+- [Introduction to Viction](https://medium.com/@crisssper/introduction-to-viction-a27021f6eb71)
 
 # Code
 - [Create Viction Dapp Tool](https://github.com/Viction-Kit/create-viction-dapp) - Create your Viction Dapp in 1 command
