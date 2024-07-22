@@ -11,7 +11,9 @@
 
 # Code
 - [Create Viction Dapp Tool](https://github.com/Viction-Kit/create-viction-dapp) - Create your Viction Dapp in 1 command
+- [Abstraction Wallet SDK](https://github.com/abstraction-hq/wallet-sdk) - Your Smart Wallet built natively on Viction
+- [One-id SDK](https://docs.oneid.xyz/developers-guide/oneid-sdk) - Your Universal Identity To The Digital World
 
 # Infrastructure
-- [Abstraction Wallet](https://wallet.abstraction.world) - Smart Wallet using account abstraction technology (free gas and easily interaction)
+- [Abstraction Wallet](https://wallet.abstraction.world) - Smart Wallet using account abstraction technology (Passkey, Free gas for all)
 - [Viction Wallet](https://www.viction.xyz/wallet) - Your Friendly Viction Wallet
